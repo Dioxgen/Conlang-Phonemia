@@ -1,4 +1,4 @@
-# 轻量化人造语言——Phonemia
+# 轻量化的人造语言——Phonemia
 
 ###### 【Designed by SoTWild】[![](https://img.shields.io/badge/My%20Website-Quillset.com-brightgreen.svg)](https://Quillset.com) ![](https://img.shields.io/badge/Licence-GPL-blue)
 
@@ -48,4 +48,4 @@ Phonemia 使用起来相当灵活，这是由它的原理决定的。
 
 资料来源：《语言学的邀请》、《高中英语语法学案》、《牛津袖珍英汉双解词典》、ChatGPT
 
-更多语言信息详见[语言设定集](.\Phonemia%20(Ver.10.29).pdf)和[字符表](.\Phonemia%20字符表.pdf)。
+更多语言信息详见[语言设定集](Phonemia%20(Ver.10.29).pdf)和[字符表](Phonemia%20字符表.pdf)。
