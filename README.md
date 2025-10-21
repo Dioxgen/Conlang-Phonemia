@@ -1,10 +1,10 @@
 # 轻量化的人造语言——Phonemia
 
-###### 【Designed by SoTWild】[![](https://img.shields.io/badge/My%20Website-Quillset.com-brightgreen.svg)](https://Quillset.com) ![](https://img.shields.io/badge/Licence-GPL-blue)
+###### 【Designed by Dioxgen】[![](https://img.shields.io/badge/My%20Website-Quillset.com-brightgreen.svg)](https://Quillset.com) ![](https://img.shields.io/badge/Licence-GPL-blue)
 
 ## 概述：
 
-Phonemia 是一种由 SoTWild 设计的架空人造语（Constructed Language - Conlang），该语言存在基本的语法和词典，它包含了约 130~150 个字词，可以实现日常的交流，不过在面对更详细的表达时会力不从心。
+Phonemia 是一种由 Dioxgen 设计的架空人造语（Constructed Language - Conlang），该语言存在基本的语法和词典，它包含了约 130~150 个字词，可以实现日常的交流，不过在面对更详细的表达时会力不从心。
 
 我在了解了 Hymmnos 语言后大受震撼，加以我的小说世界观塑造需要，我便策划设计了一新语言为小说服务。 
 
